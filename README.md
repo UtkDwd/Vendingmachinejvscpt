@@ -1,1 +1,1 @@
-# This is my first javascropt Game
+# This is my first javascript Game
